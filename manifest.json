@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Colouring Book 4 Kids",
+  "description": "Colouring Book 4:Kids",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Colouring Book 4 Kids",
+  "name": "Colouring Book 4:Kids",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Colouring Book 4 Kids",
+  "short_name": "Colouring Book 4:Kids",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Colouring Book 4 Kids",
+      "name": "Colouring Book 4:Kids",
       "url": "",
       "description": ""
     }
